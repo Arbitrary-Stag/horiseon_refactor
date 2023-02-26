@@ -14,3 +14,6 @@ The base code was provided by the coding bootcamp, and was then refactored by Wi
 
 ## Link
 https://arbitrary-stag.github.io/horiseon_refactor/
+
+## Screenshot of Deployed Webpage
+![Horiseon-Refactor-Screenshot](https://user-images.githubusercontent.com/120620818/221386037-1fb42d9a-9ded-46e4-978a-c27d983c3469.png)
