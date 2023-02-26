@@ -78,7 +78,7 @@ p {
     margin-left: 20px;
 }
 
-/* I created the more broad class "benefits" that I could apply to all the benefits offered by Horiseon, rather than have a class for each benefit which was the original format. */
+/* I created the broader class "benefits" that I could apply to all the benefits offered by Horiseon, rather than have a class for each benefit which was the original format. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -107,7 +107,7 @@ p {
     max-width: 150px;
 }
 
-/* I similarly created the broad class "services" to encompass all the services offered by Horiseon, rather than having a class for each which was the original format. */
+/* I similarly created the broader class "services" to encompass all the services offered by Horiseon, rather than having a class for each which was the original format. */
 .services {
     margin-bottom: 20px;
     padding: 50px;
