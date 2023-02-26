@@ -1,3 +1,5 @@
+/* The primary challenge of this assignment was to eliminate repetitive code and thus make the file more concise aka "dry" */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -54,6 +56,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    /* an alt description of the background image linked here is provided in the HTML file */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* I created the more broad class "benefits" that I could apply to all the benefits offered by Horiseon, rather than have a class for each benefit which was the original format. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +90,7 @@ p {
     background-color: #2589bd;
 }
 
+/* following the same logic as above, I renamed the following class children to reflect the class change above */
 .benefit-name {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +107,7 @@ p {
     max-width: 150px;
 }
 
+/* I similarly created the broad class "services" to encompass all the services offered by Horiseon, rather than having a class for each which was the original format. */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,6 +117,7 @@ p {
     color: #ffffff;
 }
 
+/* following the same logic as above, I renamed the following class children to reflect the class change above */
 .services img {
     max-height: 200px;
 }
